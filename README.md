@@ -1,5 +1,4 @@
-```markdown
- Ansible EC2 Nginx Setup
+Ansible EC2 Nginx Setup
 
 ![Ansible Logo](https://img.icons8.com/color/48/000000/ansible.png)  
 Automate deployment of Nginx on multiple Ubuntu EC2 instances using Ansible from a local control node.
